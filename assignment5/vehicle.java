@@ -23,7 +23,7 @@ class FourWheeler extends Vehicle
 	}
 }
 
-class Vehicle_Inher
+public class Vehicle_Inher
 {
 	public static void main(String[] x)
 	{
