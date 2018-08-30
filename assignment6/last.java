@@ -12,7 +12,7 @@ final class Demo
 	}
 }
  
-class Last_Class
+public class Last_Class
 {
 	public static void main(String[] x)
 	{
