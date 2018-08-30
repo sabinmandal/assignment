@@ -11,7 +11,7 @@ class Base
 	}	
 }
 
-class Calling_Constructor
+public class Calling_Constructor
 {
 	public static void main(String[] x)
 	{
