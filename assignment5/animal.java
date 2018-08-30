@@ -43,7 +43,7 @@ class Cat extends Animal
 	}		
 }
 
-class Animal_Inher
+public class Animal_Inher
 {
 	public static void main(String[] x)
 	{
