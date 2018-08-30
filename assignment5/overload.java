@@ -16,7 +16,7 @@ class Print_func
 	}
 }
 
-class Print_Overload
+public class Print_Overload
 {
 	public static void main(String[] x)
 	{
