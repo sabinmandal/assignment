@@ -6,7 +6,7 @@ class func
     }
 }
  
-class STATIC {
+public class STATIC {
     public static void main(String[] x) {
  
        func f = new func();
