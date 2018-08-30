@@ -17,7 +17,7 @@ class Derived extends Base
 	}
 }
 
-class Invoke_Instance
+public class Invoke_Instance
 {
 	public static void main(String[] x)
 	{
